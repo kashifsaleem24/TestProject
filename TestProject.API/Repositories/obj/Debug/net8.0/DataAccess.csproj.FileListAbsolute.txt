@@ -1,0 +1,17 @@
+D:\TestProject.APU\Repositories\bin\Debug\net8.0\DataAccess.deps.json
+D:\TestProject.APU\Repositories\bin\Debug\net8.0\DataAccess.dll
+D:\TestProject.APU\Repositories\bin\Debug\net8.0\DataAccess.pdb
+D:\TestProject.APU\Repositories\bin\Debug\net8.0\Models.dll
+D:\TestProject.APU\Repositories\bin\Debug\net8.0\Models.pdb
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\DataAccess.dll
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\refint\DataAccess.dll
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\DataAccess.pdb
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\ref\DataAccess.dll
+D:\TestProject.APU\Repositories\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\TestProject.APU\Repositories\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache

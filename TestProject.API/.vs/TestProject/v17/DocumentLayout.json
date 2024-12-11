@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestProject.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|d:\\testproject.api\\testworkerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|solutionrelative:testworkerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|d:\\testproject.api\\testworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|solutionrelative:testworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|d:\\testproject.api\\testworkerservice\\upsertjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|solutionrelative:testworkerservice\\upsertjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC923B9-CAE2-4949-A48B-D0AF51897282}|Repositories\\DataAccess.csproj|d:\\testproject.api\\repositories\\testappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC923B9-CAE2-4949-A48B-D0AF51897282}|Repositories\\DataAccess.csproj|solutionrelative:repositories\\testappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|d:\\testproject.api\\testworkerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|solutionrelative:testworkerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|d:\\testproject.api\\testworkerservice\\testworkerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB3FA78D-B5FF-4EB6-8FB9-7AF35596C2AE}|TestWorkerService\\TestWorkerService.csproj|solutionrelative:testworkerservice\\testworkerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC923B9-CAE2-4949-A48B-D0AF51897282}|Repositories\\DataAccess.csproj|d:\\testproject.api\\repositories\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC923B9-CAE2-4949-A48B-D0AF51897282}|Repositories\\DataAccess.csproj|solutionrelative:repositories\\repositories\\testrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4C29FE-4231-4CD3-9940-515BE0D4349D}|Models\\Models.csproj|d:\\testproject.api\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4C29FE-4231-4CD3-9940-515BE0D4349D}|Models\\Models.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715429C-264C-462E-8A0F-9A7D07D9749E}|Services\\Services.csproj|d:\\testproject.api\\services\\interfaces\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715429C-264C-462E-8A0F-9A7D07D9749E}|Services\\Services.csproj|solutionrelative:services\\interfaces\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715429C-264C-462E-8A0F-9A7D07D9749E}|Services\\Services.csproj|d:\\testproject.api\\services\\interfaces\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715429C-264C-462E-8A0F-9A7D07D9749E}|Services\\Services.csproj|solutionrelative:services\\interfaces\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715429C-264C-462E-8A0F-9A7D07D9749E}|Services\\Services.csproj|d:\\testproject.api\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D715429C-264C-462E-8A0F-9A7D07D9749E}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC923B9-CAE2-4949-A48B-D0AF51897282}|Repositories\\DataAccess.csproj|d:\\testproject.api\\repositories\\repositories\\interfaces\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC923B9-CAE2-4949-A48B-D0AF51897282}|Repositories\\DataAccess.csproj|solutionrelative:repositories\\repositories\\interfaces\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC923B9-CAE2-4949-A48B-D0AF51897282}|Repositories\\DataAccess.csproj|d:\\testproject.api\\repositories\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC923B9-CAE2-4949-A48B-D0AF51897282}|Repositories\\DataAccess.csproj|solutionrelative:repositories\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TestProject.APU\\TestProject.APU\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TestProject.APU\\TestProject.APU\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TestProject.APU\\TestProject.APU\\Controllers\\TestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\TestWorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "TestWorkerService\\Worker.cs",
+              "ToolTip": "D:\\TestProject.API\\TestWorkerService\\Worker.cs",
+              "RelativeToolTip": "TestWorkerService\\Worker.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABAPQ8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:27:42.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TestProject.API\\TestWorkerService\\appsettings.json",
+              "RelativeDocumentMoniker": "TestWorkerService\\appsettings.json",
+              "ToolTip": "D:\\TestProject.API\\TestWorkerService\\appsettings.json",
+              "RelativeToolTip": "TestWorkerService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T16:20:00.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestWorkerService.csproj",
+              "DocumentMoniker": "D:\\TestProject.API\\TestWorkerService\\TestWorkerService.csproj",
+              "RelativeDocumentMoniker": "TestWorkerService\\TestWorkerService.csproj",
+              "ToolTip": "D:\\TestProject.API\\TestWorkerService\\TestWorkerService.csproj",
+              "RelativeToolTip": "TestWorkerService\\TestWorkerService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T16:10:02.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpsertJob.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\TestWorkerService\\UpsertJob.cs",
+              "RelativeDocumentMoniker": "TestWorkerService\\UpsertJob.cs",
+              "ToolTip": "D:\\TestProject.API\\TestWorkerService\\UpsertJob.cs",
+              "RelativeToolTip": "TestWorkerService\\UpsertJob.cs",
+              "ViewState": "AQIAAAwAAAAAmZmZmZkuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:16:06.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\TestWorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "TestWorkerService\\Program.cs",
+              "ToolTip": "D:\\TestProject.API\\TestWorkerService\\Program.cs",
+              "RelativeToolTip": "TestWorkerService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:14:11.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestAppDbContext.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\Repositories\\TestAppDbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\TestAppDbContext.cs",
+              "ToolTip": "D:\\TestProject.API\\Repositories\\TestAppDbContext.cs",
+              "RelativeToolTip": "Repositories\\TestAppDbContext.cs",
+              "ViewState": "AQIAAAoAAACQzMzMzMw3wBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:22:14.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TestProject.APU\\TestProject.APU\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\TestProject.APU\\TestProject.APU\\appsettings.json",
+              "ToolTip": "D:\\TestProject.APU\\TestProject.APU\\appsettings.json",
+              "RelativeToolTip": "..\\TestProject.APU\\TestProject.APU\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T15:21:00.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestProject.APU\\TestProject.APU\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TestProject.APU\\TestProject.APU\\Program.cs",
+              "ToolTip": "D:\\TestProject.APU\\TestProject.APU\\Program.cs",
+              "RelativeToolTip": "..\\TestProject.APU\\TestProject.APU\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAZWZmZmYUwA8AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:58:29.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestRepository.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\Repositories\\Repositories\\TestRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\TestRepository.cs",
+              "ToolTip": "D:\\TestProject.API\\Repositories\\Repositories\\TestRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\TestRepository.cs",
+              "ViewState": "AQIAABIAAAAAAQAAAAAYwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:19:14.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\Services\\Interfaces\\TestService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\TestService.cs",
+              "ToolTip": "D:\\TestProject.API\\Services\\Interfaces\\TestService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\TestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:17:37.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "D:\\TestProject.API\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\TestProject.API\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T14:17:59.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Models\\Test.cs",
+              "ToolTip": "D:\\TestProject.API\\Models\\Test.cs",
+              "RelativeToolTip": "Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:16:00.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\TestProject.APU\\TestProject.APU\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "..\\TestProject.APU\\TestProject.APU\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\TestProject.APU\\TestProject.APU\\Controllers\\TestController.cs",
+              "RelativeToolTip": "..\\TestProject.APU\\TestProject.APU\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAwAAADAAAAAAAAlwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:11:07.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\Services\\Interfaces\\ITestService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITestService.cs",
+              "ToolTip": "D:\\TestProject.API\\Services\\Interfaces\\ITestService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:18:39.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\Repositories\\Repositories\\Interfaces\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\Interfaces\\BaseRepository.cs",
+              "ToolTip": "D:\\TestProject.API\\Repositories\\Repositories\\Interfaces\\BaseRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\Interfaces\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:24:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\TestProject.API\\Repositories\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\TestProject.API\\Repositories\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:26:29.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

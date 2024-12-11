@@ -1,0 +1,11 @@
+D:\TestProject.APU\DTOs\bin\Debug\net8.0\DTOs.deps.json
+D:\TestProject.APU\DTOs\bin\Debug\net8.0\DTOs.dll
+D:\TestProject.APU\DTOs\bin\Debug\net8.0\DTOs.pdb
+D:\TestProject.APU\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProject.APU\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+D:\TestProject.APU\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+D:\TestProject.APU\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+D:\TestProject.APU\DTOs\obj\Debug\net8.0\DTOs.dll
+D:\TestProject.APU\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+D:\TestProject.APU\DTOs\obj\Debug\net8.0\DTOs.pdb
+D:\TestProject.APU\DTOs\obj\Debug\net8.0\ref\DTOs.dll
